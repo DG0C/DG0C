@@ -1,4 +1,7 @@
-# Hi there, I'm Ephraim Joseph Onifade👋
+<!-- ✨ Animated Intro Section -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Transcity+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Ephraim+Joseph+Onifade+%E2%80%94+welcome+;+Bsc+Computer+science+%40+Landmark+University+%F0%9F%92%BB;%F0%9F%92%BB+Cybersecurity+%26+Software+Developer)](https://git.io/typing-svg)
+
+---
 
 ### 🛡️ Cybersecurity | 💻 Software Engineering | 🎨 Visual & Graphic Design
 
@@ -12,7 +15,7 @@ I build secure, efficient software systems while bringing a clean, user-centric 
 
 ---
 
-###⚙️ Languages & Tools  
+### ⚙️ Languages & Tools  
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
@@ -40,7 +43,7 @@ I build secure, efficient software systems while bringing a clean, user-centric 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
 </div>
 
-###🌐 Connect with Me
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://dev.to/dg0c" target="_blank">
@@ -68,9 +71,16 @@ I build secure, efficient software systems while bringing a clean, user-centric 
   <img src="https://github-profile-trophy.vercel.app/?username=dg0c&theme=tokyonight&margin-w=8&margin-h=8&no-frame=false&no-bg=false&column=-1&row=1" height="150" alt="GitHub Trophies" />
 </div>
 
+
 ---
 <p align="center">
   <em>“Code is not just logic — it’s creativity expressed through syntax.”</em><br/>
   ✨ <strong>Designed & built with passion by DG0C</strong> ✨
 </p>
+  ___
   
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
