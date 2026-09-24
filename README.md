@@ -12,7 +12,7 @@ I build secure, efficient software systems while bringing a clean, user-centric 
 
 ---
 
-###
+###⚙️ Languages & Tools  
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
@@ -40,42 +40,37 @@ I build secure, efficient software systems while bringing a clean, user-centric 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
 </div>
 
-###
+###🌐 Connect with Me
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
-
-###
-
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+<p align="center">
+  <a href="https://dev.to/dg0c" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" height="40" alt="Dev.to" />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  <img width="20" />
+  <a href="https://instagram.com/dg0c" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  <img width="20" />
+  <a href="https://www.linkedin.com/in/menasheh1/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
-</div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
+  <img width="20" />
+  <a href="mailto:onifadeephraim113@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
-### 🌐 Connect with Me
-- **Portfolio / Website:** …
-- **Instagram:** [@dg0c_](https://instagram.com/dgoc )
-- **Instagram:**[@menasheh_](https://instagram.com/menasheh_) 
-- **LinkedIn:** [linkedin.com/in/menasheh1](https://linkedin.com/in/menasheh1)
+### 🏆 Achievements & Activity  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dg0c&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dg0c&theme=tokyonight&margin-w=8&margin-h=8&no-frame=false&no-bg=false&column=-1&row=1" height="150" alt="GitHub Trophies" />
+</div>
+
+---
+<p align="center">
+  <em>“Code is not just logic — it’s creativity expressed through syntax.”</em><br/>
+  ✨ <strong>Designed & built with passion by DG0C</strong> ✨
+</p>
+  
