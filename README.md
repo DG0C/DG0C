@@ -1,5 +1,5 @@
 <!-- ✨ Animated Intro Section -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Transcity+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Ephraim+Onifade+%E2%80%94+welcome+;+Bsc+ComputerSci+%40+Landmark+University+%F0%9F%92%BB;%F0%9F%92%BB+Cybersecurity+%26+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Transcity+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Ephraim+Onifade+%E2%80%94+welcome+;+Bsc+Computer+%40+Landmark+University+%F0%9F%92%BB;%F0%9F%92%BB+CyberSec+%26+Software+Developer)](https://git.io/typing-svg)
 
 ---
 
@@ -70,8 +70,6 @@ I build secure, efficient software systems while bringing a clean, user-centric 
   <img src="https://streak-stats.demolab.com?user=dg0c&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
   <img src="https://github-profile-trophy.vercel.app/?username=dg0c&theme=tokyonight&margin-w=8&margin-h=8&no-frame=false&no-bg=false&column=-1&row=1" height="150" alt="GitHub Trophies" />
 </div>
-
-
 ---
 <p align="center">
   <em>“Code is not just logic — it’s creativity expressed through syntax.”</em><br/>
