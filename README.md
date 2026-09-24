@@ -1,5 +1,5 @@
 <!-- ✨ Animated Intro Section -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Transcity+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Ephraim+J.+Onifade+%E2%80%94+welcome+;+Bsc+Computer+Sci+%40+Landmark+University+%F0%9F%92%BB;%F0%9F%92%BB+Cybersecurity+%26+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Transcity+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Ephraim+Onifade+%E2%80%94+welcome+;+Bsc+ComputerSci+%40+Landmark+University+%F0%9F%92%BB;%F0%9F%92%BB+Cybersecurity+%26+Software+Developer)](https://git.io/typing-svg)
 
 ---
 
